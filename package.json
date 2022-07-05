@@ -36,6 +36,9 @@
   "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
   "license": "Apache-2.0",
   "dependencies": {
+    "redux": "^4.2.0",
+    "redux-observable": "^2.0.0-rc.2",
+    "rxjs": "^7.5.5",
     "tslib": "~2.4"
   },
   "volta": {
